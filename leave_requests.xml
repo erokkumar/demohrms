@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<leaveRequests>
+    <leave>
+        <name>John Doe</name>
+        <date>2025-03-01</date>
+        <end>2025-03-05</end>
+        <reason>Medical Leave</reason>
+        <status>Pending</status>
+        <action>Review</action>
+    </leave>
+    <leave>
+        <name>Jane Smith</name>
+        <date>2025-03-10</date>
+        <end>2025-03-12</end>
+        <reason>Family Emergency</reason>
+        <status>Approved</status>
+        <action>Processed</action>
+    </leave>
+</leaveRequests>
